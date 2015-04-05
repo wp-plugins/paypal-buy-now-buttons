@@ -7,7 +7,6 @@
  * @category	Class
  * @author      plugingexperts <plugingexperts@gmail.com>
  */
-
 class MBJ_PayPal_Buy_Now_Buttons_Admin {
 
     /**
@@ -42,19 +41,18 @@ class MBJ_PayPal_Buy_Now_Buttons_Admin {
         $this->load_dependencies();
     }
 
-
     private function load_dependencies() {
         /**
          * The class responsible for defining all actions that occur in the Dashboard
          */
-        
         require_once plugin_dir_path(dirname(__FILE__)) . 'admin/partials/paypal-buy-now-buttons-general-setting.php';
         require_once plugin_dir_path(dirname(__FILE__)) . 'admin/partials/paypal-buy-now-buttons-html-output.php';
         require_once plugin_dir_path(dirname(__FILE__)) . 'admin/partials/paypal-buy-now-buttons-admin-display.php';
+    }
 
-        
-
-       
+    public function paypal_buy_now_buttons_for_woocommerce_standard_parameters($paypal_args) {
+        $paypal_args['bn'] = 'mbjtechnolabs_SP';
+        return $paypal_args;
     }
 
 }
