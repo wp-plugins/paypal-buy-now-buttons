@@ -2,7 +2,7 @@
 Contributors: johnwickjigo
 Tags: payment, payment wp, paypal, paypal payment, button, donate, payment, payment, paypal, paypal payment, PayPal Donate, shortcode, paypal payment buttons,paypal payment button, multi currency, payment history, paypal payment widget, shortcode, sidebar, payment list, Paypal payment list, payment history, payment history, paypal button manager, paypal payment accept, paypal payment accept, mailchimp, subscribe, email, mailchimp, marketing, newsletter, plugin, signup, widget,  button, buy now, buy now button, easy, ecommerce, paypal, paypal button, paypal buy now button, paypal plugin, paypal plugin for wordpress, shortcode
 Requires at least: 3.0.1
-Tested up to: 4.1.1
+Tested up to: 4.2.1
 Stable tag: trunk
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -65,6 +65,9 @@ Easy steps to install the plugin:
 1. PayPal Button
 
 == Changelog ==
+= 1.2.0 =
+*       1/5/2015 ( 1.2.0 )
+*       Compatible with WordPress 4.2.1 version
 = 1.0.0 =
 *	Release Date - 12 March, 2015
 *  	First Version
