@@ -1,5 +1,6 @@
 === PayPal Buy Now Buttons ===
 Contributors: johnwickjigo
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=68A46XPQMRCJN
 Tags: payment, payment wp, paypal, paypal payment, button, donate, payment, payment, paypal, paypal payment, PayPal Donate, shortcode, paypal payment buttons,paypal payment button, multi currency, payment history, paypal payment widget, shortcode, sidebar, payment list, Paypal payment list, payment history, payment history, paypal button manager, paypal payment accept, paypal payment accept, mailchimp, subscribe, email, mailchimp, marketing, newsletter, plugin, signup, widget,  button, buy now, buy now button, easy, ecommerce, paypal, paypal button, paypal buy now button, paypal plugin, paypal plugin for wordpress, shortcode
 Requires at least: 3.0.1
 Tested up to: 4.2.1
